@@ -5,7 +5,6 @@
 Recommendation systems are getting increasingly important in today’s extraordinarily busy world. People are always short on time with the myriad duties they need to accomplish within the restrained 24 hours. Therefore, the recommendation structures are vital as they help them make the right choices, without having to dissipate their cognitive resources. The reason for a recommendation system essentially is to look for content that would be thrilling to an individual. Moreover, it includes a number of things to create customized lists of beneficial and exciting content unique to every user/individual. Recommendation structures are Artificial Intelligence primarily based algorithms that skim through all possible alternatives and create a customized listing of objects which might be thrilling and relevant to an individual.
 
 
-
 1.2	MOTIVATION OF THE WORK
 
 We are leaving the age of facts and coming into the age of recommendation. Like many device mastering techniques, a recommender system makes a prediction based on users’ ancient behaviors. Specifically, it’s to expect user choice for a fixed of items based totally on past experience.
