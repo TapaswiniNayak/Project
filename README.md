@@ -1,5 +1,6 @@
 #Movie Recommendation
 
+
 1.1	INTRODUCTION
 
 Recommendation systems are getting increasingly important in today’s extraordinarily busy world. People are always short on time with the myriad duties they need to accomplish within the restrained 24 hours. Therefore, the recommendation structures are vital as they help them make the right choices, without having to dissipate their cognitive resources. The reason for a recommendation system essentially is to look for content that would be thrilling to an individual. Moreover, it includes a number of things to create customized lists of beneficial and exciting content unique to every user/individual. Recommendation structures are Artificial Intelligence primarily based algorithms that skim through all possible alternatives and create a customized listing of objects which might be thrilling and relevant to an individual.
